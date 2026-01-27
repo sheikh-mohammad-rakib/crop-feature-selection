@@ -24,7 +24,7 @@ tests/
 
 1. Clone the repository:
     ```sh
-    git clone <repo-url>
+    git clone https://github.com/sheikh-mohammad-rakib/crop-feature-selection.git
     cd crop-feature-selection
     ```
 2. Install dependencies:
